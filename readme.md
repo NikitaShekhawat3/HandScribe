@@ -1,7 +1,6 @@
 # HandScribe ✍️
 
-Hey there! HandScribe is a cool little full-stack app I built. You can doodle on a digital canvas, and it'll figure out what you wrote in real-time! It's all powered by a React frontend, a Node.js backend to connect everything, and a Python service with a smart TensorFlow model doing the handwriting recognition.
-
+HandScribe is a full-stack handwriting recognition application that converts handwritten text into digital text in real time. It combines a React frontend, an Express.js backend, and a TensorFlow-based OCR model to provide an end-to-end handwriting recognition pipeline.
 ## ✨ Live Demo
 
 Wanna try it out? The live app is right here, give it a go!
