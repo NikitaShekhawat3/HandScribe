@@ -1,0 +1,6 @@
+npm i
+python -m venv vevn 
+./venv/Scripts/activate
+.\venv\Scripts\activate
+pip install -r requirements.txt
+node server.js
