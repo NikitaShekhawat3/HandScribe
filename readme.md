@@ -41,7 +41,7 @@ Finally, the backend passes the recognized text back to the frontend for you to 
 
 ## (Getting Started)
 
-Want to get this running on your own machine? Awesome! Here's how to get the frontend and backend up and running. For local development, you can just use the live ML model I've already hosted on Render, which makes things way easier!
+Want to get this running on your own machine? Awesome! Here's how to get the frontend and backend up and running. 
 
 ### Prerequisites
 
