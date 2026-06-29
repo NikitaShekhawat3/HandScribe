@@ -1,17 +1,6 @@
 # HandScribe ✍️
 
 HandScribe is a full-stack handwriting recognition application that converts handwritten text into digital text in real time. It combines a React frontend, an Express.js backend, and a TensorFlow-based OCR model to provide an end-to-end handwriting recognition pipeline.
-## ✨ Live Demo
-
-Wanna try it out? The live app is right here, give it a go!
-
-[https://handscribe-six.vercel.app/](https://handscribe-six.vercel.app/)
-
-<!-- ======================================================================================================= -->
-<!-- TODO: Create a GIF of your app and replace the URL below. -->
-<!-- A GIF is the best way to quickly show recruiters what your project does. -->
-<!-- A good tool for this is ScreenToGif (Windows) or Kap (macOS). -->
-<!-- ======================================================================================================= -->
 
 ## 🚀 Features
 
